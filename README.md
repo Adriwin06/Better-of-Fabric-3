@@ -1,10 +1,12 @@
-<h1 align="center">Better of Fabric 3</h1>
+# Better of Fabric 3
 
-<p align="center"><em>A Vanilla-Plus Exploration & Adventure Modpack</em></p>
+*A Vanilla-Plus Exploration & Adventure Modpack*
 
 Originally made to play with some friends, I turned it into a fully-fledged modpack because I thought other players might enjoy it too.
 
 **This Modpack** is a **Vanilla+ Exploration** and **Adventure** Modpack that will make you **rediscover Minecraft** without losing its Vanilla feel. Create a world, discover new biomes, fight bosses, make a farm, explore new dimensions, level up your equipment, find artifacts, build a beautiful house, craft insane new items... Everything that is in Minecraft, but **Enhanced**.
+
+With **stunning shaders**, **vivid new biomes**, and **thousands of new blocks and structures**, this modpack turns Minecraft into a true **visual masterpiece**. Still not convinced? Head to the screenshots tab and see the beauty for yourself!
 
 ---
 
@@ -39,6 +41,13 @@ The modpack performs really well, even on low-end hardware, especially when play
 **Minimum allocated RAM:** 6 GB  
 **Recommended allocated RAM:** 8 GB
 
+## Shaders
+By default, shaders are **disabled**, but you can enable them at any time: **the game looks absolutely stunning with shaders on**. You'll notice more vibrant, colorful lighting and an overall enhanced atmosphere.
+
+I've already configured the shaders with better settings than the defaults, so you get a great experience right away. However, these improved settings can also reduce performance a bit more than the default.
+
+If your PC struggles with a particular shader pack, **open its settings and lower the graphics preset** (almost all shaders have this option). Just keep in mind that changing presets may overwrite some of my custom settings, but it shouldn’t be a big deal, just some cool effect might get disabled.
+
 ---
 
 # ![FAQ](https://i.imgur.com/Qh1w6k3.png)
@@ -64,6 +73,8 @@ Great mod, I wanted to include it, but the combination with other mods causes cr
 ## Setting up your server
 Depending on which hosting service you use, it might be slightly different. They usually have a tutorial on how to install a modpack. Most of them have an installer that lets you choose the modpack, and everything gets installed automatically. You will still need to configure voice chat if you plan to use it: To **Configure Voice Chat** correctly on BisectHosting server, here is a really quick guide they made: [Voice Chat Setup on BisectHosting](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/198/How-to-setup-voice-chat-on-a-ForgeorFabricorSpigot-Minecraft-server.html)
 
+To manually download the server pack, search for the version of the modpack you are using on [this page](https://www.curseforge.com/minecraft/modpacks/better-of-fabric-3/files), click on it and download the server pack zip file.
+
 If you want **faster chunk loading**, I recommend using **Chunky** to pre-generate chunks. You can set a high radius and let it run overnight. Pre-generated chunks load almost instantly.
 
 ## [Need a ready-to-go server?](https://bisecthosting.com/Adriwin)
@@ -77,3 +88,7 @@ Set one up with **Bisect Hosting** and use code **Adriwin** for *25% off* your f
 **BisectHosting** is committed to making your **Minecraft Server** hosting experience as **easy and affordable** as possible. After your purchase, the server is *already configured* and ready to use.
 
 *Thanks to BisectHosting for supporting my projects and providing amazing servers.*
+
+---
+
+The modpack is available on both [CurseForge](https://www.curseforge.com/minecraft/modpacks/better-of-fabric-3) and [Modrinth](https://modrinth.com/modpack/better-of-fabric-3), so choose the one you prefer. The only thing that is only on CurseForge is the server pack since we can't upload file larger than 500mb on Modrinth.

@@ -1,11 +1,19 @@
 ## V1.1
+### Adjustments
+* Disabled shaders by default
+
+---
+
+### Content change
+**Additions**
 * Added **JourneyMap Waypoint Syncing**
 * Added **Stoneholm**
----
-* Removed **Underground Villages**
----
-**Shaders**
-* Updated MakeUp - Ultra Fast
 
-**Mods**
-* Updated Bookshelf
+**Soustractions**
+* Removed **Underground Villages**
+
+**Update**
+* *Shaders*
+  * Updated MakeUp - Ultra Fast
+* *Mods*
+  * Updated Bookshelf
