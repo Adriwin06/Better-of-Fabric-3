@@ -1,0 +1,29 @@
+Just a quick list, for my own purpose, of the mods that are not available on Modrinth.
+They are still present in the Modrinth version of the modapck but there is directly the files of the mods.
+
+biomemusic
+connectivity
+crotopia
+cupboard
+emeraltools
+fabrication
+fast async world save
+frameword
+gobber2
+goblin traders
+invetory hud
+leaky
+lootintegration_townsandtowers
+lootintegration_wda
+lootintegrations_formations
+lootintegrations_hopo
+lootintegrations_phillipsruins
+lootintegrations_structory
+lootintegrations_yungs
+lootintegrations-fabric
+mining dimension
+mobz
+offline skins
+recipe essentials
+structure essentials
+underground villages

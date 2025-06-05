@@ -1,6 +1,6 @@
-<h1 align="center">Better of Fabric 3</h1>
+# Better of Fabric 3
 
-<p align="center"><em>A Vanilla-Plus Exploration & Adventure Modpack</em></p>
+*A Vanilla-Plus Exploration & Adventure Modpack*
 
 Originally made to play with some friends, I turned it into a fully-fledged modpack because I thought other players might enjoy it too.
 
