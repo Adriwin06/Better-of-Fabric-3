@@ -1,5 +1,4 @@
 ## V1.1
-* Added **Modern UI**
 * Added **JourneyMap Waypoint Syncing**
 * Added **Stoneholm**
 ---
