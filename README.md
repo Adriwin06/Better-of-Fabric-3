@@ -46,7 +46,9 @@ By default, shaders are **disabled**, but you can enable them at any time: **the
 
 I've already configured the shaders with better settings than the defaults, so you get a great experience right away. However, these improved settings can also reduce performance a bit more than the default.
 
-If your PC struggles with a particular shader pack, **open its settings and lower the graphics preset** (almost all shaders have this option). Just keep in mind that changing presets may overwrite some of my custom settings, but it shouldn’t be a big deal, just some cool effect might get disabled.
+If your PC struggles with a particular shader pack, **open its settings and lower the graphics preset** (almost all shaders have this option). Just keep in mind that changing presets may overwrite some of my custom settings, but it shouldn’t be a big deal; just some cool effects might get disabled.
+
+The screenshots you see in the gallery tab were taken using Complementary+Euphoria. The game looks incredible with this shader, and I **really recommend** that you play with it for the best possible experience.
 
 ---
 

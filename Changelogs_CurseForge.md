@@ -1,4 +1,8 @@
 ## V1.1
+The V1.0 was rejected on CurseForge, so the first available version will be this one.
+
+---
+
 ### Adjustments
 * Disabled shaders by default
 
@@ -9,11 +13,12 @@
 * Added **JourneyMap Waypoint Syncing**
 * Added **Stoneholm**
 
-**Soustractions**
+**Substractions**
 * Removed **Underground Villages**
+* Removed **Blast** (The licensing prevents the use of this mod in modpacks on CurseForge)
 
 **Update**
 * *Shaders*
-  * Updated MakeUp - Ultra Fast
+  * Updated MakeUp - Ultra Fast
 * *Mods*
-  * Updated Bookshelf
+  * Updated Bookshelf
