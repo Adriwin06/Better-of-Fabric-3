@@ -22,3 +22,9 @@ The V1.0 was rejected on CurseForge, so the first available version will be this
   * Updated MakeUp - Ultra Fast
 * *Mods*
   * Updated Bookshelf
+
+---
+
+### Credits
+* Bliss Shader
+  * [GitHub page](https://github.com/X0nk/Bliss-Shader)

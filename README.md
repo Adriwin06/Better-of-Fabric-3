@@ -83,9 +83,7 @@ If you want **faster chunk loading**, I recommend using **Chunky** to pre-genera
 
 Set one up with **Bisect Hosting** and use code **Adriwin** for *25% off* your first month!
 
-[![BisectHosting – Official Partner](https://i.imgur.com/l7NGpJ0.png)](https://bisecthosting.com/Adriwin)
-
-Set one up with **Bisect Hosting** and use code **Adriwin** for *25% off* your first month!
+[![BisectHosting – Official Partner](https://i.imgur.com/l7NGpJ0.png)](https://www.curseforge.com/linkout?remoteUrl=https%253a%252f%252fwww.bisecthosting.com%252fAdriwin)
 
 **BisectHosting** is committed to making your **Minecraft Server** hosting experience as **easy and affordable** as possible. After your purchase, the server is *already configured* and ready to use.
 
@@ -93,4 +91,4 @@ Set one up with **Bisect Hosting** and use code **Adriwin** for *25% off* your f
 
 ---
 
-The modpack is available on both [CurseForge](https://www.curseforge.com/minecraft/modpacks/better-of-fabric-3) and [Modrinth](https://modrinth.com/modpack/better-of-fabric-3), so choose the one you prefer. The only thing that is only on CurseForge is the server pack since we can't upload file larger than 500mb on Modrinth.
+The modpack is available on both [CurseForge](https://www.curseforge.com/minecraft/modpacks/better-of-fabric-3) and [Modrinth](https://modrinth.com/modpack/better-of-fabric-3), so choose the one you prefer. The only thing that is only on CurseForge is the server pack, since we can't upload files larger than 500mb on Modrinth.
