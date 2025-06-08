@@ -75,4 +75,8 @@ These are the changes that are required for the pack to be approved here on Modr
   * Recipe Essentials
 
 **Credits**
-* [Bliss Shader](https://github.com/X0nk/Bliss-Shader)
+* Bliss Shader
+  * [GitHub page](https://github.com/X0nk/Bliss-Shader)
+* Sodium
+  * I modified Sodium for this modpack to make it compatible with BetterEnd, the file is `sodium-fabric-0.6.13+mc1.21.1_edited_BetterEnd-bypass.jar`
+  * So here is the link to the [GitHub page](https://github.com/CaffeineMC/sodium) with the LICENSE
