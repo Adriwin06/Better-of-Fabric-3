@@ -33,3 +33,21 @@ The V1.0 was rejected on CurseForge, so the first available version will be this
 * Sodium
   * I modified Sodium for this modpack to make it compatible with BetterEnd, the file is `sodium-fabric-0.6.13+mc1.21.1_edited_BetterEnd-bypass.jar`
   * So here is the link to the [GitHub page](https://github.com/CaffeineMC/sodium) with the LICENSE
+
+## V1.2
+### Adjustments
+* Changed the Emote Wheel default key
+* Changed the Whistle/Unwhistle default key
+
+---
+
+### Content change
+**Additions**
+* Added **Pyrellium**
+
+**Update**
+* Updated **All The Wood We've Got**
+* Updated **Biomes O' Plenty**
+* Updated **Crash Assistant**
+* Updated **JourneyMap**
+* Updated **Oh The Biomes We've Gone** 

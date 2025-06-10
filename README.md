@@ -63,7 +63,7 @@ You can simply press **F6** to toggle between the original and the new one.
 This modpack focuses on performance and stability over mod count, so if a mod isn't there, it's probably because of that. But feel free to suggest mods in the comments.
 
 #### Distant Horizon
-It slows down chunk generation. The pack already runs well with **32 chunks of render distance**, so this one's optional.
+It can **destroy** your TPS since there are a lot of worldgen mods. The pack already runs well with **32 chunks of render distance**, so this one's optional.
 
 #### Effective
 Great mod, I wanted to include it, but the combination with other mods causes crashes. It's not the mod's fault, just the combination with other mods. It was replaced with Particular here.
